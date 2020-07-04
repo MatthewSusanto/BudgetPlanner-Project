@@ -44,5 +44,5 @@ ___
 **Solution:** Spent time learning advanced Javascript for better understanding
 
 - **Difficulty:** Problem understanding some Javascript concepts <br />
-**Solution:** Decided to learn ES5 and advanced theories, which helps me a lot
+**Solution:** Decided to learn ES5 which helps me a lot
 
